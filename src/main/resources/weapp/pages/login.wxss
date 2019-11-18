@@ -1,0 +1,36 @@
+/* login.wxss */
+
+.page-body {
+  margin-left: 1em;
+  margin-right: 1em;
+}
+
+.profile, .form {
+  margin: 8px 0px;
+}
+
+.form>button {
+  margin: 5px 0;
+}
+
+.profile {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+}
+
+#avatar {
+  width: 100px;
+  height: 100px;
+  display: block;
+  margin: 5px;
+  border-radius: 50%;
+}
+
+#userInfo {
+  height: 15em;
+  display: block;
+  margin: 5px;
+  font-size: 0.5em;
+}

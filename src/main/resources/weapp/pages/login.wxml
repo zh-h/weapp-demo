@@ -1,0 +1,16 @@
+<!--login.wxml-->
+<view class="container">
+  <view class="page-body">
+    <view class="profile">
+      <image id="avatar" src="{{userInfo.avatarUrl}}" mode="aspectFill" />
+      <scroll-view scroll-x="true" scroll-y="false">
+        <rich-text id="userInfo" nodes="{{userInfoNodes}}" />
+      </scroll-view>
+    </view>
+    <view class="form">
+    <button open-type='getUserInfo' type="warn">获取授权</button>
+      <button type="primary" disabled="{{login.login}}" id="button-login" bindtap="clickLogin" loading="{{login.loading}}">login</button>
+      <button type="warn" disabled="{{!login.login}}" id="button-logout" bindtap="clickLogout" loading="{{logout.loading}}">logout</button>
+    </view>
+  </view>
+</view>

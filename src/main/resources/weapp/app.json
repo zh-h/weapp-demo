@@ -1,0 +1,12 @@
+{
+  "pages": [
+    "pages/login"
+  ],
+  "window": {
+    "backgroundTextStyle": "dark",
+    "navigationBarBackgroundColor": "#111",
+    "navigationBarTitleText": "Login",
+    "navigationBarTextStyle": "white"
+  },
+  "sitemapLocation": "sitemap.json"
+}

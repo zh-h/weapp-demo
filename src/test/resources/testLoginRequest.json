@@ -1,0 +1,18 @@
+{
+  "code": "043xQiPG1aV6I108k7SG1KAhPG1xQiPW",
+  "userInfo": {
+    "encryptedData": "6Iq86z8WewqcZ6slYEXGON7cSFQ1oxml8wR7Mwflua+ygiqPIX42f3rmhF4jd3FIELT6gmgW713d5JST9nQEiwsxinQ0cxpU+P6ccnO9I8OrKGjLEkSZEqFrqGYiWjbvqfmyOqyaQkZ0YH71rOIwvpGET5pH7ej1sEvC2EWMj0MqNxXzYpKXmZaSlGUuWgLu/6wg9qQcBFCMZkpyLPbVGURChyvIrjJiI2zLgxvmXlEXDEjd5AX5kFurqnJjSM6EKrUeXVnLkrNpGjWFeQvUDE7ign7TLWQyK+MDOyH3n1J+qZ4GGFQZ17+EBLU49SYs+zk1Lh98KuRRyvIxjD9mDD43T2geUWMwbZoq0KWZyqE2D+1Lax0w3DeA6Uf4g7nNRLafPQyJhX8KNsNVmUXPPtvQs6Z2g7uwgDI9rivQVwyMCVWY7sWwjmULycFTDh6lpnz5j0SAC+TaCw+MrbJmkLBwiunbTatXHzSuwWP1fYM=",
+    "iv": "BE5BTSLFSPkVD9GbYIPnGw==",
+    "signature": "7b86c64f12844eac51a52e0c924760be2c7f1a4c",
+    "userInfo": {
+      "nickName": "zonghua",
+      "gender": 1,
+      "language": "zh_CN",
+      "city": "Zhaoqing",
+      "province": "Guangdong",
+      "country": "China",
+      "avatarUrl": "https://wx.qlogo.cn/mmopen/vi_32/ficK3Qmn5gYyXtgyicmEzxicV65Nayoz1ic0ua4c7oJ2VgDgIdMNwxLnGNEDFRqklkJcuaVTa0QibqVtVUuYOgku5gw/132"
+    },
+    "rawData": "{\"nickName\":\"zonghua\",\"gender\":1,\"language\":\"zh_CN\",\"city\":\"Zhaoqing\",\"province\":\"Guangdong\",\"country\":\"China\",\"avatarUrl\":\"https://wx.qlogo.cn/mmopen/vi_32/ficK3Qmn5gYyXtgyicmEzxicV65Nayoz1ic0ua4c7oJ2VgDgIdMNwxLnGNEDFRqklkJcuaVTa0QibqVtVUuYOgku5gw/132\"}"
+  }
+}
